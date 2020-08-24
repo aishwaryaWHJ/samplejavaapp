@@ -1,3 +1,4 @@
+/*new changes*/
 FROM tomcat
 ADD target/sampleapp.war /usr/local/tomcat/webapps
 EXPOSE 8080
